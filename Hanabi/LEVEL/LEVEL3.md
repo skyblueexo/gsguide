@@ -27,4 +27,12 @@
  
 ![image](https://github.com/skyblueexo/gsguide/blob/main/hanabiphoto/ocm%204P.JPG?raw=true)
 * 範例1：
+  * 第一玩家提示1
+  * 第二玩家打出slot3（藍色箭頭）
+  * 所有玩家將第三玩家slot4記為CM來存卡
+* 範例2：
+  * 第一玩家提示1
+  * 第二玩家打出slot2(紅色箭頭）
+  * 所有玩家將第四玩家slot4記為CM來存卡
+
 
