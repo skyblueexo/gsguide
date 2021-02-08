@@ -1,4 +1,6 @@
 # Level 3
+* [Order Chop Move](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL3.md#order-chop-move)
+
 ## Order Chop Move
 * 什麼是Order Chop Move（稱為OCM）
   * 當玩家出卡暗示下N個玩家或需要存最舊卡時，叫做OCM
