@@ -1,10 +1,10 @@
 # LEVEL 2
-
-* [Double Prompt](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-prompt)
-* [Double Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-finess)
-* [Prompt+Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#promptfiness)
-* [Reverse Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
-* [Self Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
+* 玩過5-10次並掌握基礎知識經驗之後，學習LEVEL2策略
+    * [Double Prompt](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-prompt)
+    * [Double Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-finess)
+    * [Prompt+Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#promptfiness)
+    * [Reverse Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
+    * [Self Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
 
 # Double Prompt
 * 什麼是Double Prompt？
@@ -32,6 +32,13 @@
    * 當玩家被亮出一張時另兩個玩家各擁有一張匹配的未知牌
    * 或另個玩家擁有兩張匹配的未知牌
    * 匹配的未知牌必須打出，否則亮出的牌必須是一樣的牌
+
+![image](https://github.com/skyblueexo/gsguide/blob/main/Hanbiphoto/Double%20Finess.jpg?raw=true)
+* 範例：
+    * 第一玩家提示紫色
+    * 第二玩家盲打slot1為P1
+    * 第三玩家盲打slot2為P2
+    * 第四玩家打出P3
 
 # Prompt+Finess
 * Prompt與Finess差別
