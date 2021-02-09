@@ -12,7 +12,12 @@
    
 ![image](https://github.com/skyblueexo/gsguide/blob/main/Hanbiphoto/Double%20Prompt.jpg?raw=true)
 * 範例：
-
+    * 第二玩家紅色牌只亮紅色
+    * 第一玩家提示第三玩家紅色
+    * 第二玩家在slot2打出R2
+    * 第三玩家在slot3打出R3
+    * 第二玩家在slot3打出R4
+    
 # Double Finess
 * Double Finess如何做?
    * 當玩家被亮出一張時另兩個玩家各擁有一張匹配的未知牌
