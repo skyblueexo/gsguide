@@ -19,6 +19,13 @@
     * 第二玩家在slot2打出R2
     * 第三玩家在slot3打出R3
     * 第二玩家在slot3打出R4
+
+![image](https://github.com/skyblueexo/gsguide/blob/main/Hanbiphoto/Double%20Prompt%20ex2.jpg?raw=true)
+* 範例：
+    * 第二玩家綠色牌只亮綠色
+    * 第三玩家提示第一玩家綠色
+    * 第二玩家在slot1打出G2、G3
+    * 第一玩家在slot2打出G4
     
 # Double Finess
 * Double Finess如何做?
