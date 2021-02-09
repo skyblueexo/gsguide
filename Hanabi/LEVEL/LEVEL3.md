@@ -2,7 +2,7 @@
 
 
 #Sarcastic Discard
-*什麼是Sarcastic Discard?
+* 什麼是Sarcastic Discard?
 
 
 
