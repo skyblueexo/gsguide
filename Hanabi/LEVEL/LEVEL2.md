@@ -1,10 +1,10 @@
 # LEVEL 2
 
-* [Double Prompt]
-* [Double Finess]
-* [Prompt+Finess]
-* [Reverse Finess]
-* [Self Finess]
+* [Double Prompt](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-prompt)
+* [Double Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#double-finess)
+* [Prompt+Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#promptfiness)
+* [Reverse Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
+* [Self Finess](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/LEVEL/LEVEL2.md#reverse-finess)
 
 # Double Prompt
 * 什麼是Double Prompt？
