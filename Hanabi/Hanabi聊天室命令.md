@@ -18,7 +18,7 @@
 |/replay [game ID] [turn]|產生重播連結，以便可以與玩家分享|
 |/random [min] [max]|獲得隨機整數|
 |/uptime|獲得伺服器關閉前還剩多少時間|
-|/shrug|¯\_(ツ)_/¯ |
+|/shrug| ¯\_(ツ)_/¯ |
 
 # 常規命令（除Discord以外適用）
 |指令|描述|
@@ -28,7 +28,7 @@
 |/friend [username]|加入某人到你的朋友列表|
 |/unfriend [username]|從你的朋友列表移出某人|
 |/tagsearch [tag]|在所有遊戲中搜尋特定標籤|
-|/version|顯示客戶端的代碼｜
+|/version|顯示客戶端的代碼|
 
 # 等待房間指令
 |指令|描述|
@@ -50,4 +50,4 @@
 |/missing|獲取團隊缺少每個最大分數的清單|
 |/findvariant|查詢需要最大分的變體｜
 
-#
+# 
