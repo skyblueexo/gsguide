@@ -15,3 +15,5 @@
 |/playerinfo|獲得目前遊戲中所有玩家的遊戲數量|-|
 |/playerinfo [username]|獲得指定玩家的遊戲數量|-|
 |/playerinfo [username1] [username2]|獲得玩家清單的遊戲數量|-|
+|/replay [game ID] [turn]|產生重播連結，以便可以與玩家分享|
+|/random [min] [max]|獲得隨機整數|
