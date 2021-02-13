@@ -12,4 +12,6 @@
 |/doc|獲得Hanabi參考文章連結|-|
 |/bga|獲得bga連結|-|
 |/efficiency|獲得效率列表連結|-|
-|/playerinfo|獲得當前遊戲中所有玩家的數量|
+|/playerinfo|獲得目前遊戲中所有玩家的遊戲數量|-|
+|/playerinfo [username]|獲得指定玩家的遊戲數量|-|
+|/playerinfo [username1] [username2]|獲得玩家清單的遊戲數量|-|
