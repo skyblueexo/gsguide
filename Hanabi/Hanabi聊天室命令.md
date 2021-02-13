@@ -17,3 +17,10 @@
 |/playerinfo [username1] [username2]|獲得玩家清單的遊戲數量|-|
 |/replay [game ID] [turn]|產生重播連結，以便可以與玩家分享|
 |/random [min] [max]|獲得隨機整數|
+|/uptime|獲得伺服器關閉前還剩多少時間|
+|/shrug|¯\_(ツ)_/¯|
+
+# 常規命令（除Discord以外適用）
+|指令|描述|
+|---|---|
+|/pm [username] [msg]|傳送私人訊息|
