@@ -1,5 +1,5 @@
 # Hanabi聊天室指令
-此文章來自於Hanab Live Chat Commands<br>
+此文章來自於[Hanab Live Chat Commands](https://github.com/Zamiell/hanabi-live/blob/master/docs/CHAT_COMMANDS.md#pre-game-game-and-replay-commands)<br>
 如果你需要一般幫助，請閱讀功能介面，如果你需要聊天室命令列表，請閱讀這裡
 
 # 通用指令（任何地方都可以使用）
