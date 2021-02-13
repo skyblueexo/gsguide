@@ -12,3 +12,4 @@
 |/doc|獲得Hanabi參考文章連結|-|
 |/bga|獲得bga連結|-|
 |/efficiency|獲得效率列表連結|-|
+|/playerinfo|獲得當前遊戲中所有玩家的數量|
