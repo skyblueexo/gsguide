@@ -25,7 +25,7 @@
 |Empty Clues|空提示|詳見空提示|
 |One Extra Card|額外一張卡片|詳見額外一張卡片|
 |less Extra Card|減少一張卡片|詳見額外一張卡片|
-|Detrimental Characters|表情符號|詳見表情符號|
+|Detrimental Characters|表情符號|詳見[表情符號](https://github.com/skyblueexo/gsguide/blob/main/Hanabi/%E8%A1%A8%E6%83%85%E7%AC%A6%E8%99%9F%E6%B8%85%E5%96%AE%E8%A1%A8.md#%E8%A1%A8%E6%83%85%E7%AC%A6%E8%99%9F%E8%81%B7%E6%A5%AD%E6%B8%85%E5%96%AE%E8%A1%A8)|
 
 ## Timed 時間
 Base Time (in minutes) : 基本時間（幾分鐘）
